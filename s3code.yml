@@ -4,7 +4,7 @@ Resources:
   MyS3Bucket:
     Type: AWS::S3::Bucket
     Properties:
-      BucketName: my-unique-s3-devops
+      BucketName: my-unique-s3-march7
       VersioningConfiguration:
         Status: Enabled
 
