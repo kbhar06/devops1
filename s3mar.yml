@@ -6,4 +6,4 @@ Resources:
       BucketName: my-7-mar
       AccessControl: Private
       VersioningConfiguration:
-        Status: Disabled
+        Status: Suspended
